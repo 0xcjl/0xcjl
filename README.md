@@ -1,6 +1,6 @@
 # Jialin
 
-**AI / Agent solutions & implementation · Web3 / Crypto research · B2B collaboration**
+**AI / Agent solutions & implementation · Web3 / Crypto research · collaboration**
 
 I turn business needs into practical Agent workflows—from requirements and architecture to integration, testing, and handoff. At Luffa, I co-led Luffa Fabric and was responsible for solution design and primary engineering delivery on the MVP v0.3 feature branch. I also bring Web3 research experience and roughly a decade of international B2B account and technical delivery work.
 
